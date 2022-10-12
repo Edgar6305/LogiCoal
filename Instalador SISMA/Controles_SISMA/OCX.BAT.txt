@@ -1,0 +1,13 @@
+Regsvr32 comctl32.ocx
+Regsvr32 MSCHRT20.OCX
+Regsvr32 HookMenu.ocx
+Regsvr32 actskin4.ocx
+Regsvr32 MSMASK32.OCX
+Regsvr32 THREED32.OCX
+Regsvr32 comdlg32.ocx
+Regsvr32 GRID32.OCX
+Regsvr32 MSMAPI32.OCX
+Regsvr32 KewlButtonz.ocx
+Regsvr32 ToolTip_Ex.dll
+Regsvr32 SYSINFO.OCX
+Regsvr32 VB2_SkinControlLt.ocx

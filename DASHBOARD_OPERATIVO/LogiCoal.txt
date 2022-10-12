@@ -1,0 +1,8 @@
+[DATABASE]              
+LOCALHOST
+[REPORTE]              
+C:\FRONTIER\Bascula\Reportes\
+[COMPROBANTES]              
+C:\FRONTIER\Comprobantes\
+[MASTER]
+A$123bcd

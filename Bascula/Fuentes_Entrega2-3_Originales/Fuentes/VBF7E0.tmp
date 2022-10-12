@@ -1,0 +1,49 @@
+VERSION 5.00
+Object = "{831FDD16-0C5C-11D2-A9FC-0000F8754DA1}#2.1#0"; "mscomctl.OCX"
+Object = "{D18BBD1F-82BB-4385-BED3-E9D31A3E361E}#1.0#0"; "KewlButtonz.ocx"
+Object = "{38911DA0-E448-11D0-84A3-00DD01104159}#1.1#0"; "COMCT332.OCX"
+Object = "{00025600-0000-0000-C000-000000000046}#5.2#0"; "Crystl32.OCX"
+Object = "{0BA686C6-F7D3-101A-993E-0000C0EF6F5E}#1.0#0"; "THREED32.OCX"
+Object = "{886257EB-E47C-11D3-8ED1-95743DE02879}#2.0#0"; "MBSplit.ocx"
+Object = "{C932BA88-4374-101B-A56C-00AA003668DC}#1.1#0"; "MSMASK32.OCX"
+Object = "{648A5603-2C6E-101B-82B6-000000000014}#1.1#0"; "MSCOMM32.OCX"
+Begin VB.Form Bascula 
+   Caption         =   "Bascula"
+   ClientHeight    =   8610
+   ClientLeft      =   120
+   ClientTop       =   465
+   ClientWidth     =   15210
+   FillStyle       =   2  'Horizontal Line
+   Icon            =   "Bascula.frx":0000
+   LinkTopic       =   "Form1"
+   ScaleHeight     =   8610
+   ScaleWidth      =   15210
+   StartUpPosition =   1  'CenterOwner
+   Begin MBSplit.Splitter VSplitter1 
+      Height          =   7695
+      Left            =   0
+      TabIndex        =   13
+      Top             =   780
+      Width           =   15135
+      _ExtentX        =   26696
+      _ExtentY        =   13573
+      SplitterPos     =   30
+      Begin MSComctlLib.TreeView oTree 
+         Height          =   3735
+         Left            =   120
+         TabIndex        =   29
+         Top             =   180
+         Width           =   3195
+         _ExtentX        =   5636
+         _ExtentY        =   6588
+         _Version        =   393217
+         Style           =   7
+         ImageList       =   "ImageList1"
+         Appearance      =   1
+         BeginProperty Font {0BE35203-8F91-11CE-9DE3-00AA004BB851} 
+            Name            =   "Arial"
+            Size            =   8.25
+            Charset         =   0
+            Weight          =   400
+            Underline       =   0   'False
+            Italic          =   0   'False

@@ -1,0 +1,9 @@
+Regsvr32 MBPrgBar.ocx
+Regsvr32 MBSplit.ocx
+Regsvr32 MSINET.OCX
+Regsvr32 MSCHRT20.OCX
+Regsvr32 SSubtmr6.dll
+Regsvr32 vbalSGrid6.ocx
+Regsvr32 MBPrgBar.ocx
+Regsvr32 MSMAPI32.ocx
+Regsvr32 MSCOMM32.ocx

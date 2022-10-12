@@ -1,0 +1,10 @@
+Regsvr32 MBPrgBar.ocx
+Regsvr32 msmapi32.ocx
+Regsvr32 MBPrgBar.ocx
+Regsvr32 MBSplitMSCHRT20.ocx
+Regsvr32 SSubTmr6.dll
+Regsvr32 vbalsgrid6.ocx
+Regsvr32 vbaListView6.ocx
+Regsvr32 ToolTip_Ex.dll
+Regsvr32 KewlButtonz.ocx
+Regsvr32 HookMenu.ocx

@@ -1,0 +1,18 @@
+Delete Bascula	
+Delete Calidad
+Delete Lotes
+Delete TrasladosDetalle
+Delete Traslados
+Delete VentasDetalle
+Delete Ventas
+Delete Favoritos
+
+NUMERADOR
+
+Bascula	0
+Calidad	0
+Lotes	0
+Pilas	11
+Traslados	0
+Trituracion	0
+Ventas	0

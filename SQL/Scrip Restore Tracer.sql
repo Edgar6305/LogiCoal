@@ -1,0 +1,9 @@
+USE [master]
+RESTORE DATABASE [TRACER] FROM  DISK = N'C:\FRONTIER\BackUp\Productivo\Tracer_OCT_5_2022.Bak' WITH  FILE = 1,  
+MOVE N'TRACER' TO N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\TRACER.mdf',  
+MOVE N'TRACER_log' TO N'C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\TRACER_log.ldf',  
+NOUNLOAD,  STATS = 5
+
+GO
+
+
